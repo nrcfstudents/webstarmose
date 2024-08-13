@@ -57,7 +57,7 @@ body {
 .nav-links a:hover {
     color: #FFD700;
 }
-
+ 
 /* Fancy underline effect */
 .nav-links a::after {
     content: '';
@@ -74,5 +74,9 @@ body {
 .nav-links a:hover::after {
     width: 100%;
 }
+/*Hero section*/
+   .Hero-section{background:url('image/hero.png')no-repeat center center/cover;
+   text-align: center;
+   color: bisque
 
 
