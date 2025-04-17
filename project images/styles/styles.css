@@ -1,0 +1,24 @@
+body{
+	background: indigo;
+	margin-top: 20px;
+	margin-left: 50px;
+	margin-right: 60px;
+	margin-bottom: 70px;
+}
+.project-main-container{
+	display: flex;
+	justify-content: space-between;
+}
+.project-container{
+	
+	
+	border: solid 1px #333; /* Dark border for contrast */
+	padding: 100px;
+	background: linear-gradient(45deg, #6a11cb, #2575fc); /* A cool purple-blue gradient */
+	border-radius: 10px; /* Slightly rounded corners for a smoother look */
+	box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1); /* Adds subtle shadow */
+
+}
+.nav-bar{
+	display: flex;
+}
